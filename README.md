@@ -1,5 +1,7 @@
 # Manchester United F.C Transfers Analysed and Mapped (Premier League : 1992 - present)
 
+![Mufc Thumbnail](https://user-images.githubusercontent.com/91523309/196402528-b3f503fe-8853-4825-adbc-21a0d8d1692c.PNG)
+
 # Project Description 
 
 The goal of this project is to breakdown and create visual representations (via Tableau) of the transfer business that Manchester United F.C have carried out in the Premier League era (1992 - 2020). The dataset used in this project has been obtained from (https://github.com/ewenme/transfers) and contains player movement information (loans, transfers, retirements, academy to first team promotions, player releases etc) on all teams that have played in the Premier Leagues. The key objectives of this analysis are as follows :
