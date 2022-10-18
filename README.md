@@ -10,13 +10,12 @@ The goal of this project is to breakdown and create visual representations (via 
 4. Create a visual mapping of the transfers (Use Tableau to convert data from a tabular form to one where user has more interactability options)
 5. Transfer fee aggregate informations;
 
-# Description of data files (CSV)
+# Description of data files
 
-1. premier-league - original file obtained from data source containing all transfer information of the premier league (secondary data source - obtained from https://github.com/ewenme/transfers)
-2. Mufc_transfers_2023 - file containing latest manchester united transfers that was not present in original dataset at time of download (obtained from https://www.transfermarkt.co.in/manchester-united/transfers/verein/985)
-3. Manutd Player Database - file containing nationality info of manchester united players (obtained from https://www.worldfootball.net/)
-4. Club_info - file contating nationality, geolocation data of clubs involved in tranfer with manchester untited (data manually generated using Google Maps)
-
+1. premier-league - CSV file obtained from data source containing all transfer information of the premier league (secondary data source - obtained from https://github.com/ewenme/transfers)
+2. Mufc_transfers_2023 - CSV file containing latest manchester united transfers that was not present in original dataset at time of download (obtained from https://www.transfermarkt.co.in/manchester-united/transfers/verein/985)
+3. Manutd Player Database - CSV file containing nationality info of manchester united players (obtained from https://www.worldfootball.net/)
+4. Club_info - CSV file contating nationality, geolocation data of clubs involved in tranfer with manchester untited (data manually generated using Google Maps)
 
 # Tableau Viz
 
